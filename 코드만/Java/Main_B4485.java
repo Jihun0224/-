@@ -1,5 +1,3 @@
-package _0401;
-
 import java.io.*;
 import java.util.*;
 //백준 4485 녹색 옷 입은 애가 젤다지? ->bfs, dp
